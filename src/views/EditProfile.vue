@@ -39,7 +39,7 @@ export default {
       alert("Profil sauvegardé !");
       // Logique pour sauvegarder les données mises à jour
       console.log("Nouvelles données utilisateur :", this.user);
-      this.$router.push({ name: "Profil" }); // Redirige vers le profil
+      this.$router.push({ name: "Profile" }); // Redirige vers le profil
     },
   },
 };
