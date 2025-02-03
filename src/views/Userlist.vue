@@ -65,7 +65,7 @@ export default {
       alert(`Supprimer l'utilisateur avec l'ID ${id}`);
     },
     redirectToaddUser() {
-      this.$router.push("/addUser");
+      this.$router.push("/add-user");
     },
   },
 };

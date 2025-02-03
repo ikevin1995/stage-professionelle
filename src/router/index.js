@@ -38,7 +38,7 @@
      { path: '/students', name: 'StudentList', component: StudentList },
      { path: '/teachers', name: 'TeacherList', component: TeacherList },
      { path: '/dashboard', name: 'Dashboard', component: Dashboard },
-     { path: '/users', name: 'UserList', component: Userlist },
+     { path: '/users', name: 'User', component: Userlist },
      { path: '/edit-user/:id', name: 'EditUser', component: EditUser, props: true },
      { path: '/Paylist', name: 'paymentList', component: PaymentList },
      { path: '/contact', name: 'Contact', component: ContactPage },

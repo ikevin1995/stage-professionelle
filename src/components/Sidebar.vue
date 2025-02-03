@@ -40,7 +40,7 @@
             </router-link>
           </li>
           <li>
-            <router-link to="/user">
+            <router-link to="/users">
               <i class="fas fa-user"></i> Liste des Utilisateur
             </router-link>
           </li>
