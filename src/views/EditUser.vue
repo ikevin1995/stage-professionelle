@@ -64,7 +64,7 @@ export default {
       this.redirectToUserlist();
     },
     redirectToUserlist() {
-      this.$router.push('/user');
+      this.$router.push('/users');
     },
   },
 };
